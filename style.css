@@ -1,0 +1,70 @@
+body{
+background-image: url("bg3.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{
+text-align: center;
+background: rgba(250,235,215, 0.7);
+padding: 1%;
+
+}
+
+h4{
+text-align: center;
+background: rgba(250,235,215, 0.7);
+padding: 1%;
+
+}
+
+label{
+font-size: 20px;
+color:white;
+}
+
+#box{
+text-align: center;
+border: 5px solid yellowgreen;
+padding: 2%;
+}
+
+#x4{
+display: none;
+}
+
+#button{
+text-align: center;
+font-weight: bolder;
+background-color: thistle;
+padding: 1% 3%;
+border: none;
+float:right;
+margin-right:2%;
+margin-top:2%;
+}
+
+#output{
+color: white;
+float:left;
+}
+footer{
+//background-color:blue;	
+  display:inline;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  border-top: 3px solid white;
+  width: auto;
+  color: white;
+  height:10%;
+  
+}
+#contact{
+text-align:right;
+}
+#copyright{
+text-align:center;
+}
